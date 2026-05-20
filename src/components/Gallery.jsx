@@ -1,30 +1,30 @@
 const images = [
   {
-    src: "https://img.freepik.com/free-psd/barbershop-social-media-square-flyer-instagram-haircut-post-banner-template_505751-7328.jpg?semt=ais_hybrid&w=740&q=80",
+    src: "https://cdn.feelaxo.com/images/salon/kolkata/head-turners/head-turners_salon_kolkata_1.webp",
     title: "Balayage Perfection",
     cat: "Coloring",
     large: true,
   },
   {
-    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvANgzPqJvsJag6RhkAmYNftqNAVb4FxnlKg&s",
+    src: "https://t3.ftcdn.net/jpg/01/20/88/42/360_F_120884298_LMkqtyBLwgD514jbcyQtLA2L35uP2drE.jpg",
     title: "Classic Bob",
     cat: "Haircut",
     large: false,
   },
   {
-    src: "https://media.istockphoto.com/id/856184464/photo/a-little-boy-is-trimmed-in-the-hairdressers.jpg?s=612x612&w=0&k=20&c=SX4hTFXKr9pR--JOA3buT6wRz409TJ0to1AV-y7cI0M=",
+    src: "https://t3.ftcdn.net/jpg/02/39/85/40/360_F_239854082_O0sMF4SOIWJDdwZigTjn7AFtwXJQTkZi.jpg",
     title: "Textured Crop",
     cat: "Men's Cut",
     large: false,
   },
   {
-    src: "https://s3-media0.fl.yelpcdn.com/bphoto/HSweIW5mkdPyaYIxJrxyZw/348s.jpg",
+    src: "https://content.jdmagicbox.com/comp/dehradun/q6/9999px135.x135.190831180936.s8q6/catalogue/indian-unisex-salon-dehradun-htol0ns7wc.jpg",
     title: "Bridal Elegance",
     cat: "Updo",
     large: false,
   },
   {
-    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpKyPgPGmvoBu7Gnxme8-KRFGteqB4dKhVQ&s",
+    src: "https://media.istockphoto.com/id/1336649728/photo/beautiful-traditional-indian-bride-getting-ready-for-her-wedding-day-by-makeup-artist.jpg?s=612x612&w=0&k=20&c=sFQRDldX1yYiyhPweZpKYNkTEyX5kIcWkdjFTSdwD2g=",
     title: "Platinum Glow",
     cat: "Color",
     large: false,

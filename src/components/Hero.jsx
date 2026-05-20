@@ -8,7 +8,7 @@ export default function Hero() {
         <img
           src="https://static.vecteezy.com/system/resources/thumbnails/072/281/534/small/hairdressing-tools-arranged-on-a-shelf-in-soft-light-for-styling-services-photo.jpg"
           alt="Salon"
-          className="h-full w-full object-cover opacity-70 hero-zoom"
+          className="h-full w-full object-cover opacity-70 hero-zoom blur-sm"
         />
       </div>
       <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(15,23,42,0.35)_0%,rgba(15,23,42,0.15)_35%,rgba(15,23,42,0.8)_100%)]" />

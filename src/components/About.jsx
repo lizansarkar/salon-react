@@ -12,8 +12,8 @@ export default function About() {
         <div className="grid gap-12 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
           <div className="relative overflow-hidden rounded-[2rem] shadow-2xl">
             <img
-              src="https://www.craftingbeauty.com/wp-content/uploads/2023/09/CULT4-1.jpg"
-              alt="Team"
+              src="https://i.pinimg.com/736x/e6/0a/8a/e60a8aa5c32b61ac34d44230d416d36d.jpg"
+              alt="Professional Salon Team"
               className="h-full w-full object-cover"
             />
             <div className="absolute left-0 top-1/2 w-full -translate-y-1/2 px-8">
